@@ -4,7 +4,7 @@
   "description": "Vacunas server with FakeAPI",
   "main": "index.js",
   "scripts": {
-    "test": "json-server --watch db.json"
+    "start": "json-server --watch db.json"
   },
   "keywords": [
     "fake-api"
